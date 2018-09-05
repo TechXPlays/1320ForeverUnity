@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ab7c329b2abafc74ea218671099ef79c
+timeCreated: 1492697486
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ArtsansC
+  fontNames:
+  - ArtsansC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

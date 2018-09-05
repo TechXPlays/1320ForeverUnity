@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <!-- app_id -->
+  <string name="app_id" translatable="false">188731063896</string>
+  <!-- package_name -->
+  <string name="package_name" translatable="false">com.stansassets.games.dragclub</string>
+  <!-- achievement First Win -->
+  <string name="achievement_first_win" translatable="false">CgkI2Pz9ib8FEAIQAQ</string>
+  <!-- achievement T1 -->
+  <string name="achievement_t1" translatable="false">CgkI2Pz9ib8FEAIQAg</string>
+  <!-- achievement T2 -->
+  <string name="achievement_t2" translatable="false">CgkI2Pz9ib8FEAIQAw</string>
+  <!-- achievement T3 -->
+  <string name="achievement_t3" translatable="false">CgkI2Pz9ib8FEAIQBA</string>
+  <!-- achievement T4 -->
+  <string name="achievement_t4" translatable="false">CgkI2Pz9ib8FEAIQBQ</string>
+  <!-- achievement Five Wins -->
+  <string name="achievement_five_wins" translatable="false">CgkI2Pz9ib8FEAIQBw</string>
+  <!-- leaderboard Most Wanted -->
+  <string name="leaderboard_most_wanted" translatable="false">CgkI2Pz9ib8FEAIQBg</string>
+</resources>
